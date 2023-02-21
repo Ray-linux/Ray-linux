@@ -1,4 +1,5 @@
-[![MasterHead](https://uploads-ssl.webflow.com/60d0ba985b314b6e7f5e3ea7/60f1952f8b374e4d8d05aab7_02_Product_Development_Full_Stack_Development.gif)](https://rahulray.me)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Rahul Ray</h1>
 <h3 align="center">A MERN developer from India</h3>
