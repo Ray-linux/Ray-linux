@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Rahul Ray</h1>
