@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Rahul Ray</h1>
