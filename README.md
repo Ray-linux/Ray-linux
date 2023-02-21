@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)](https://rahulray.ml)
+[![MasterHead](https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif)](https://rahulray.me)
 
 <h1 align="center">Hi 👋, I'm Rahul Ray</h1>
 <h3 align="center">A MERN developer from India</h3>
